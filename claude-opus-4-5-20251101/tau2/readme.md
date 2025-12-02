@@ -19,4 +19,4 @@ During the [Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) launch we 
 >
 > The benchmark technically scored this as a failure because Claude’s way of helping the customer was unanticipated. But this kind of creative problem solving is exactly what we’ve heard about from our testers and customers—it’s what makes Claude Opus 4.5 feel like a meaningful step forward.
 
-This folder contains the amendments we made to τ2-bench prompts to account for Opus 4.5's capabilities. 
+This folder contains the amendments we made to τ2-bench prompts to account for Opus 4.5's capabilities. Please see the [Claude Opus 4.5 System Card](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf) for more information!
