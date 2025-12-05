@@ -1,0 +1,1 @@
+During the [Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) launch we published scores for τ2-bench that contained prompt modifications to the retail and telecom sections τ2-bench. This folder contains those modifications. See the [Claude Opus 4.5 System Card](https://assets.anthropic.com/m/64823ba7485345a7/Claude-Opus-4-5-System-Card.pdf) for more information.
